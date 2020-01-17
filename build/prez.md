@@ -41,29 +41,50 @@ autoPlayMedia: "null"
 
 ![](./res/mb.png){width=65%}
 
+--
+
+#### Pourquoi utiliser une carte Micro:Bit?
+
+* Par ses **caractéristiques techniques** et ses **interfaces pédagogiques**, cet objet possède un fort potentiel pour l’enseignement de l’algorithmique.
+
+
+* Une carte programmable directement : 
+  * par bloc 
+  * en Python
+
 
 --
 
-### Caractéristiques 
 
-UMicro:bit est un microcontrôleur développé au Royaume-Unis.
+#### Pourquoi utiliser une carte Micro:Bit?
 
-Par ses caractéristiques techniques et ses interfaces pédagogiques, cet objet possède un fort potentiel pour l’enseignement de l’algorithmique.
+* Petit objet robuste
+* Prix raisonnable
+* Nombreuses extensions disponibles
+
+--
+
+#### Caractéristiques de la carte Micro:bit
+
+* microcontrôleur développé au Royaume-Unis
+* initiative de la BBC pour équiper tous les collégiens anglais (2016)
 
 
-Une carte à l'initiative de la BBC pour équiper
-tous les collégiens anglais.
 
-Un petit objet robuste programmable par un enfant de 10 ans
+--
 
-De grandes possibilités d'interactions avec l'environnement.
+#### Caractéristiques de la carte Micro:bit
+
+* possibilités d'interactions avec l'environnement
+
+![](./res/mb7.png){width=45%}
+![](./res/mb6.png){width=45%}
 
 
-La carte se programme
+##### capteurs intégrés
 
-par bloc
-en Python
-en JavaScript
+écran LED, bouton, broches, radio/bluetooth, compas magnétique, accéléromètre, température, luminosité
+
 
 
 --
@@ -119,19 +140,6 @@ en JavaScript
 
 --
 
-### Des capteurs intégrés
-
-![](./res/mb7.png){width=55%}
-![](./res/mb6.png){width=55%}
-
-<aside class="notes">
-entrées/sorties
-<ul>
-<li>bouton, broches,
-<li>en radio/bluetooth
-<li>en Javacompas, acceléromètre, température, luminosité
-</ul>
-</aside>
 
 
 ---
@@ -317,8 +325,6 @@ while True:
 
 ---
 
-
-# Exemple
 
 ## Activité de recherche
 
