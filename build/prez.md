@@ -12,8 +12,9 @@ autoPlayMedia: "null"
 *C2i-TICE* {style=background:rgba(204,35,50,1);width:500px}
 ::: 
 
-
-
+<small>
+(remarque : utiliser <b>ESPACE</b> pour passer à la diapo suivante et <b>?</b> pour l'aide)
+</small>
 
 <div class="tweet"  data-src="https://twitter.com/Irem_Tice/status/845221861231394817?s=20"></div>
 
@@ -120,10 +121,10 @@ autoPlayMedia: "null"
 
 
 --
+<!-- .slide: data-background-video="./res/mu.mp4" data-background-video-loop="true" data-background-size="contain" -->
+
 
 ## Connexion en direct entre la carte et l'ordinateur
-
-<!-- .slide: data-background-video="./res/mu.mp4" data-background-video-loop="true" data-background-size="contain" -->
 
 
 --
