@@ -8,14 +8,27 @@ title: "Les objets connectés"
 autoPlayMedia: "null"
 ---
 
+Diaporama en ligne de la C2i TICE</br>
+
+<small>
+pour naviguer entre les diapos, utiliser </br>
+
+→ "<b>ESPACE</b>" pour passer à la diapo suivante<br>
+→ "<b>MAJ + ESPACE</b>" pour la diapo précédente
+
+et
+
+→ "<b>?</b>" pour l'aide et les autres raccourcis claviers
+</small>
+
+
+
+---
+
 ::: block
 *C2i-TICE* {style=background:rgba(204,35,50,1);width:500px}
 :::
 
-
-<small>
-(remarque : utiliser <b>ESPACE</b> pour passer à la diapo suivante et <b>?</b> pour l'aide)
-</small>
 
 <div class="tweet"  data-src="https://twitter.com/Irem_Tice/status/845221861231394817?s=20"></div>
 
@@ -23,7 +36,9 @@ autoPlayMedia: "null"
 ---
 
 
-## Pourquoi utiliser une carte programmable ?
+#### Une carte programmable ?..
+##### Pour l'enseignement ?..
+###### Pour faire quoi ?!?
 
 
 * pour modéliser les objets de notre environnement
@@ -45,7 +60,7 @@ autoPlayMedia: "null"
 
 --
 
-#### Pourquoi utiliser une carte Micro:Bit?
+#### Pourquoi Micro:Bit ?
 
 * Par ses **caractéristiques techniques** et ses **interfaces pédagogiques**, cet objet possède un fort potentiel pour l’enseignement de l’algorithmique.
 
@@ -54,11 +69,11 @@ autoPlayMedia: "null"
   * par bloc 
   * en Python
 
-
+ 
 --
 
 
-#### Pourquoi utiliser une carte Micro:Bit?
+#### Pourquoi Micro:Bit?
 
 * Petit objet robuste
 * Prix raisonnable
