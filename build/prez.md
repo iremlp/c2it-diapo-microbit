@@ -10,7 +10,8 @@ autoPlayMedia: "null"
 
 ::: block
 *C2i-TICE* {style=background:rgba(204,35,50,1);width:500px}
-::: 
+:::
+
 
 <small>
 (remarque : utiliser <b>ESPACE</b> pour passer à la diapo suivante et <b>?</b> pour l'aide)
