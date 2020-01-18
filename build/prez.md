@@ -1,5 +1,5 @@
 ---
-theme : "white"
+theme : "solarized"
 transition: "slide"
 highlightTheme: "monokai"
 logoImg: "./res/logo-c2it.png"
