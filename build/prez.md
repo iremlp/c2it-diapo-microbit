@@ -6,6 +6,9 @@ logoImg: "./res/logo-c2it.png"
 slideNumber: false
 title: "Les objets connectés"
 autoPlayMedia: "null"
+navigationMode: "linear"
+progress: true
+controls: false
 ---
 
 Diaporama en ligne de la C2i TICE</br>
@@ -156,8 +159,6 @@ et
 
 
 
---
-
 
 
 ---
@@ -188,9 +189,6 @@ et
 
 * transfert sur la carte par copier/coller
 * rien à installer
-
-
---
 
 
 
@@ -337,8 +335,6 @@ while True:
     sleep(20)
 
 ```
-
---
 
 
 ---
