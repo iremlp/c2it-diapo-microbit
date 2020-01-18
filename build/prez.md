@@ -69,7 +69,7 @@ et
   * par bloc 
   * en Python
 
- 
+
 --
 
 
@@ -137,10 +137,11 @@ et
 
 
 --
+
+## Connexion en direct entre la carte et l'ordinateur
 <!-- .slide: data-background-video="./res/mu.mp4" data-background-video-loop="true" data-background-size="contain" -->
 
 
-## Connexion en direct entre la carte et l'ordinateur
 
 
 --
