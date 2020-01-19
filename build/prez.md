@@ -2,7 +2,7 @@
 theme : "solarized"
 transition: "slide"
 highlightTheme: "monokai"
-logoImg: "./res/logo-c2it.png"
+logoImg: "./res/logo-c2it_1000.png"
 slideNumber: false
 title: "Les objets connectés"
 autoPlayMedia: "null"
@@ -126,17 +126,16 @@ et
 
 --
 
-### Projet en classe
 
 ![](./res/classe_01.jpg)
+Projet en classe
 
 
 --
 
 
-### Création de boîtiers de satisfaction
-
 ![](./res/classe_02.jpg)
+Création de boîtiers de satisfaction
 
 
 --
