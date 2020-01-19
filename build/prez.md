@@ -12,6 +12,8 @@ controls: false
 ---
 
 Diaporama en ligne de la C2i TICE</br>
+[![](./res/logo-c2it_1000.png){width=25%}](http://tice.univ-irem.fr/?p=4097)
+
 
 <small>
 pour naviguer entre les diapos, utiliser </br>
@@ -39,6 +41,18 @@ et
 ---
 
 
+
+## Pourquoi utiliser une carte 
+# Micro:Bit?
+
+
+
+![](./res/mb.png){width=65%}
+
+
+--
+
+
 #### Une carte programmable ?..
 ##### Pour l'enseignement ?..
 ###### Pour faire quoi ?!?
@@ -53,15 +67,6 @@ et
 
 --
 
-
-## Pourquoi utiliser une carte 
-# Micro:Bit?
-
-
-
-![](./res/mb.png){width=65%}
-
---
 
 #### Pourquoi Micro:Bit ?
 
@@ -338,14 +343,46 @@ while True:
 
 ---
 
+## Programmation blocs et Python
 
-## Activité de recherche
+Il est possible de proposer une **transition** :
 
-On utilise une boucle de *n* itérations pour
-allumer aléatoirement les diodes du Micro:bit.
+programmation par **blocs** → **Python**
+
+
+--
+
+
+<video loop data-autoplay src="./res/vittascience.mp4" width="85%"></video>
+
+
+
+
+
+
+* **vittascience**<br>
+<small>https://fr.vittascience.com/microbit</small>
+
+
+---
+
+
+### Exemple d'activité de recherche
+
+
+Une carte micro:bit possède 25 diodes.<br>
+On décide de toutes les allumer de la façon suivante:
+
+
+```bash
+tant que il reste au moins une diode éteinte
+    choisir une diode au hasard sur 25
+    si la diode est déjà allumée
+        ne rien faire
+    sinon allumer la diode   
+```
 
 ![](./res/recherche.gif){width=20%}
-
 
 #### Combien d'itérations sont nécessaires pour allumer toutes les diodes ?
 
@@ -357,10 +394,6 @@ allumer aléatoirement les diodes du Micro:bit.
 --
 
 
-
-::: block
-*C2i-TICE* {style=background:rgba(204,35,50,1);width:500px}
-::: 
-
-
 # Merci
+
+[![](./res/logo-c2it_1000.png){width=70%}](http://tice.univ-irem.fr/?p=4097)
