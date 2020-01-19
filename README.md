@@ -2,7 +2,7 @@
 
 Depuis plusieurs années, la commission inter IREM TICE s'intéresse à la carte Micro:bit. Cette dernière, fabriquée pour initier à l'algorithmique l'ensemble des petites collégiens britannique, est accompagnée d'un écosystème diversifié qui permet aussi bien l'initiation à la programmation par bloc (de type blockly ou Scratch) que la programmation évènementielle, impérative ou objet en Python.
 
-![](./build/res/mb.png)
+![](https://iremlp.github.io/c2it-diapo-microbit/build/export/index.html#/)
 
 La Commission inter IREM TICE propose un diaporama de présentation de la carte et de son écosystème.
 
